@@ -1,0 +1,26 @@
+.jumbotron{
+    text-align: center;
+    
+}
+
+#searchSector {
+
+    margin: 25px;
+    
+}
+
+.col{
+    
+    background-color: lightskyblue;
+
+}
+
+#contentForWeather {
+
+    margin: 50px;
+}
+
+small {
+
+    color: blue;
+}
